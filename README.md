@@ -3,6 +3,7 @@ SQL Analysis of a B2B CRM dataset exploring win rates, deal-drop-off, and sales 
 
 ## Tools
 Kaggle- kaggle.com
+
 SQLite - SQLiteOnline.com
 
 ## Dataset Overview
