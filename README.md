@@ -21,7 +21,9 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 
 ## Project Structure
 'analysis.sql' - all queries with comments
+
 'screenshots/' - result tables for each query
+
 'README.md' - findings and summary
 
 ---
