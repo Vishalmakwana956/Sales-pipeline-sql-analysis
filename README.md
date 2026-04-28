@@ -59,3 +59,9 @@ This section will show the top reps, the win rate vs. deal volume per rep, the p
 The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win rate. 
 
 [Top Rep Win Rate] <img width="925" height="871" alt="04_top_reps_by_win_rate" src="https://github.com/user-attachments/assets/fa3ed998-aba4-490c-b490-7609c6fb49ad" /> <img width="909" height="869" alt="04(1)_top_reps_by_win_rate" src="https://github.com/user-attachments/assets/24634c5c-53c1-42f4-b4f1-ac30fae969c2" />
+
+### Deal Volume vs. Win Rate per Rep
+The amount of deals conducted per rep compared to their win rate.
+
+[Deal Volume vs. Win Rate] <img width="923" height="882" alt="05_deal_volume_vs_win_rate" src="https://github.com/user-attachments/assets/1cafef15-a0f0-4f91-8f72-f5a8ec8fec25" /> <img width="922" height="861" alt="05(1)_deal_volume_vs_win_rate" src="https://github.com/user-attachments/assets/9840e1f9-5048-4809-82c1-77122522d348" /> <img width="910" height="550" alt="05(2)_deal_volume_vs_win_rate" src="https://github.com/user-attachments/assets/11bd3636-ede9-4a6f-9e7d-26ac4276f192" /> 
+
