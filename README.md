@@ -30,7 +30,7 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 ---
 
 ## Funnel Analysis
-This section will show the overall win rate, the deal volume by stage, and the time to close a deal that is won vs lost. This information helps us understand how successful the team has been, how deals are progressing, and the amount of time it takes for an agent to close a successful or unsuccessful deal.
+This section will show the overall win rate, the deal volume by stage, and the time to close a deal that is won vs lost. This information helps us understand how successful the team has been, how deals are progressing, and the amount of time it takes for an agent to close a successful or unsuccessful deal. This section will be utilizing the sales_pipeline spreadsheet.
 
 ### Overall Win Rate
 The overall win rate was just under 50%, specifically 4238/8800.
@@ -51,3 +51,8 @@ The average amount of time it took to close both won and lost deals, excluding N
 My recommendation for this company's sales manager based on the Funnel Analysis would be to at least double the amount of opportunities in the 'Prospecting' stage, as 500 is low compared to the amount of opportunities (8,800). I would also recommend to speed up the sales process for opportunities that are unlikely to convert to 'Lost' opportuntities to 30 days, as spending 41.5 days for an opportunity that ultimately did not generate revenue for the company is too long to be in an agent's pipeline.
 
 ---
+
+## Sales Team Analysis
+This section will show the top reps, the win rate vs. deal volume per rep, the performance by regional office, and the performance by manager. This section will be utilizing the sales_pipeline and sales_teams spreadsheets. 
+
+### Top Reps Win Rate
