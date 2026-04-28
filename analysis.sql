@@ -57,6 +57,63 @@ GROUP BY deal_stage;
 
 -- ===============================================
 
+-- SECTION 2: SALES TEAM ANALYSIS
+-- Goal: Understand how reps, managers, and 
+-- regional offices are performing.
+
+-- ===============================================
+
+-- Question: Which reps are the best performing by
+-- win rate?
+-- Why it matters: Provides insight into reps who
+-- are performing and those who are underperforming
+
+-- ===============================================
+
+-- Top Reps by Win Rate Query:
+SELECT 
+    sales_agent,
+    ROUND(
+        100.0 * SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END) 
+        / COUNT(deal_stage),
+        2
+    ) || '%' AS win_rate
+FROM sales_pipeline
+GROUP BY sales_agent
+ORDER BY win_rate DESC;
+
+-- ===============================================
+
+-- Question: Which reps are closing the most deals
+-- compared to the amount of volume?
+-- Why it matters: Shows which reps are the most
+-- efficient while taking volume into consideration
+
+-- ===============================================
+
+-- Deal Volume vs Win Rate Query:
+SELECT 
+    sales_agent,
+    COUNT(*) AS deal_volume,
+    SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    ROUND(
+        100.0 * SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END) 
+        / COUNT(*),
+        2
+    ) AS win_rate_pct
+FROM sales_pipeline
+GROUP BY sales_agent
+ORDER BY win_rate_pct DESC;
+
+-- =============================================== 
+
+-- Question: How is each regional office performing?
+-- Why it matters: Shows how each regional office 
+-- is performing compared to each other
+
+-- ===============================================
+
+-- Regional Office Performance Query:
 
 
 
