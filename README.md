@@ -36,3 +36,14 @@ This section will show the overall win rate, the deal volume by stage, and the t
 The overall win rate was just under 50%, specifically 4238/8800.
 
 [Overall Win Rate] <img width="905" height="398" alt="01_overall_win_rate" src="https://github.com/user-attachments/assets/47d3f191-96b3-4579-9d52-6c68bfea8f01" />
+
+### Deal Volume by Stage
+The amount of deals in each stage of the sales process. There is 1,589 deals in the 'Engaging' stage, 2,473 deals in the 'Lost' stage, 500 in the 'Prospecting' stage, and 4,238 in the 'Won' stage.
+
+[Deal Volume by Stage] <img width="920" height="616" alt="02_deals_by_stage" src="https://github.com/user-attachments/assets/9cb4d266-e092-4ef8-8c94-12d966fc5600" />
+
+### Average Time to Close
+The average amount of time it took to close both won and lost deals, excluding NULL values. The average amount of days to close a 'Lost' deal was 41.48 days. The average amount of days to close a 'Won' deal was 51.78 days.
+
+[Average Time to Close] <img width="905" height="521" alt="03_avg_deal_close" src="https://github.com/user-attachments/assets/db81aa86-b948-4a06-971f-ba873bad025e" />
+
