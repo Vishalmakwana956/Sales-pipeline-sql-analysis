@@ -30,3 +30,8 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 ---
 
 ## Funnel Analysis
+This section will show the overall win rate, the deal volume by stage, and the time to close a deal that is won vs lost. This information helps us understand how successful the team has been, how deals are progressing, and the amount of time it takes for an agent to close a successful or unsuccessful deal.
+
+### Overall Win Rate
+The overall win rate was just under 50%, specifically 4238/8800.
+[Overall Win Rate] <img width="905" height="398" alt="01_overall_win_rate" src="https://github.com/user-attachments/assets/47d3f191-96b3-4579-9d52-6c68bfea8f01" />
