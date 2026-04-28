@@ -34,4 +34,5 @@ This section will show the overall win rate, the deal volume by stage, and the t
 
 ### Overall Win Rate
 The overall win rate was just under 50%, specifically 4238/8800.
+
 [Overall Win Rate] <img width="905" height="398" alt="01_overall_win_rate" src="https://github.com/user-attachments/assets/47d3f191-96b3-4579-9d52-6c68bfea8f01" />
