@@ -70,4 +70,9 @@ This dataset has 3 Regional offices, West, Central, and East. Central Regional O
 
 [Performance by Regional Office] <img width="915" height="508" alt="Screenshot 2026-04-29 091440" src="https://github.com/user-attachments/assets/5f369507-e01d-49db-83e5-4eea1c667a33" />
 
+### Performance by Manager
+The overall performance by maanger. Melvin Marxen has 882 deals won and 1,929 deal volume. Summer Sewald has 828 deals won and 1,701 deal volume. Dustin Brinkmann has 747 deals won and 1,583 deal volume. Rocco Neubert has 691 deals won and 1,327 deal volume. Celia Rouche 610 deals won and 1,296 deal volume. Cara Losch has 480 deals won and 964 deal volume.
+
+[Performance by Manager] <img width="918" height="613" alt="07_performance_by_manager" src="https://github.com/user-attachments/assets/35737e30-9139-49eb-82e8-8b559017f101" />
+
 -- more analysis coming: product performance, rep rankings, regional breakdown. --
