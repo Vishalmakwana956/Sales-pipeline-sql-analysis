@@ -114,6 +114,43 @@ ORDER BY win_rate_pct DESC;
 -- ===============================================
 
 -- Regional Office Performance Query:
+SELECT 
+    regional_office,
+    COUNT(*) AS deal_volume,
+    SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END)
+    || '/' || 
+    COUNT(*) AS win_rate_pct
+FROM sales_pipeline
+JOIN sales_teams
+ON sales_pipeline.sales_agent = sales_teams.sales_agent
+GROUP BY regional_office
+ORDER BY win_rate_pct DESC;
+
+-- ================================================
+
+-- Question: Which manager's team is the strongest?
+-- Why it matters: Allows team to see if training 
+-- methods and team is performing to standards.
+
+-- ================================================
+
+-- Manager Performance Query:
+SELECT 
+    manager,
+    COUNT(*) AS deal_volume,
+    SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    SUM(CASE WHEN deal_stage = 'Won' THEN 1 ELSE 0 END)
+    || '/' || 
+    COUNT(*) AS win_rate_pct
+FROM sales_pipeline
+JOIN sales_teams
+ON sales_pipeline.sales_agent = sales_teams.sales_agent
+GROUP BY manager
+ORDER BY win_rate_pct DESC;
+
+-- ================================================
+
 
 
 
