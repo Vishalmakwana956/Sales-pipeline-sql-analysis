@@ -151,6 +151,122 @@ ORDER BY win_rate_pct DESC;
 
 -- ================================================
 
+-- SECTION 3: PRODUCT ANALYSIS
+-- Goal: Determine which product generates the most
+-- revenue and which product is being discounted most.
+
+-- ================================================
+
+-- Question: Which product closes most often?
+-- Why it matters: Provides insight into most popular
+-- and least successful product
+
+-- ================================================
+
+-- Win Rate by Product Query:
+SELECT 
+    sp.product,
+    COUNT(*) AS pro_volume,
+    SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    ROUND(
+        1.0 * SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) 
+        / COUNT(*), 
+        4
+    ) AS pro_win_rate
+FROM sales_pipeline sp
+JOIN products p
+ON sp.product = p.product
+GROUP BY sp.product
+ORDER BY pro_win_rate DESC;
+
+-- ================================================
+
+-- Question: Which product line (GTX or MG) has the
+-- higher win rate and generates the most revenue?
+-- Why it matters: Determines which series is selling
+-- at a higher rate and makes the most money
+
+-- ================================================
+
+-- GTX Series vs. MG Series Query:
+SELECT 
+    p.product,
+    COUNT(*) AS pro_volume,
+    SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    ROUND(
+        1.0 * SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) 
+        / COUNT(*), 
+        4
+    ) AS pro_win_rate,
+    SUM(CASE 
+        WHEN sp.deal_stage = 'Won' THEN sp.close_value 
+        ELSE 0 
+    END) AS total_revenue
+FROM sales_pipeline sp
+JOIN products p
+ON sp.product = p.product
+WHERE (sp.product LIKE 'GTX%' OR sp.product LIKE 'MG%') 
+AND sp.close_value Is NOT NULL
+GROUP BY p.product
+
+-- =================================================
+
+-- Question: Are reps closing deals at, below, or
+-- above list price?
+-- Why it matters: Provides context regarding reps
+-- providing value to customers, consumers
+-- willingness to pay, and affects profits & gross
+-- margins.
+
+-- =================================================
+
+-- Closing Deal Rate Query:
+SELECT 
+    CASE 
+        WHEN sp.close_value > p.sales_price THEN 'Above list'
+        WHEN sp.close_value = p.sales_price THEN 'At list'
+        WHEN sp.close_value < p.sales_price THEN 'Below list'
+        ELSE 'Unknown'
+    END AS pricing_result,
+    COUNT(*) AS deals,
+    ROUND(1.0 * COUNT(*) / SUM(COUNT(*)) OVER (), 4) AS percent_of_total
+FROM sales_pipeline sp
+JOIN products p
+ON sp.product = p.product
+WHERE sp.close_value IS NOT NULL
+  AND p.sales_price IS NOT NULL
+GROUP BY pricing_result
+ORDER BY deals DESC;
+
+-- =================================================
+
+-- Question: Which product is being discounted the
+-- most?
+-- Why it matters: Can be a signal of lack of
+-- pricing power, reps relying on discounts, and 
+-- future pricing stratigies. 
+
+-- ================================================= 
+
+-- Product Discount Rate Query:
+SELECT p.product,
+    CASE 
+        WHEN sp.close_value > p.sales_price THEN 'Above list'
+        WHEN sp.close_value = p.sales_price THEN 'At list'
+        WHEN sp.close_value < p.sales_price THEN 'Below list'
+        ELSE 'Unknown'
+    END AS pricing_result,
+    COUNT(*) AS deals
+FROM sales_pipeline sp
+JOIN products p
+ON sp.product = p.product
+WHERE sp.close_value IS NOT NULL
+  AND p.sales_price IS NOT NULL
+GROUP BY p.product, pricing_result
+ORDER BY p.product, deals DESC;
+
+-- =================================================
+
 
 
 
