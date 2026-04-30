@@ -77,3 +77,9 @@ The overall performance by maanger. Melvin Marxen has 882 deals won and 1,929 de
 
 ### What This Means
 My recommendation for this company, based on the Sales Team Analysis would be to increase training/support for reps when closing deals as 21/29 reps have a win rate of below 50%. Another recommendation I would make is along with increasing prospecting as discussed in the funnel analysis, is development and learning across regions and managers, for them to pick up any insights or tips from each other as they are performing well, but there is not a region or manager that is strongly outperforming the others.  
+
+## Product Analysis
+This section will show win rate by product, compare two product lines, discounting behavior, and deal value by product. This section will be utilizing the sales_pipeline and the products spreadsheets.
+
+### Win Rate by Product
+
