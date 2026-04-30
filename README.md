@@ -86,3 +86,9 @@ There are 6 products, with the GTX Plus Pro having the highest win rate (.4948),
 
 [Win Rate by Product] <img width="914" height="669" alt="08_win_rate_by_product" src="https://github.com/user-attachments/assets/a2de1f95-2471-436f-b79b-27bb73dd1e84" />
 
+### GTX Series vs. MG Series
+There are 3 GTX products (GTX Basic, GTX Plus Basic, and GTX Plus Pro), and 2 MG Series products (MG Advanced and MG Special). The MG Special has the highest win rate (.6484) and the GTX Plus Pro has generated the most total revenue (2629651). 
+
+[GTX Series vs. MG Series] <img width="922" height="718" alt="09_gtx_vs_mg" src="https://github.com/user-attachments/assets/8f5917b8-8ae4-41b0-b2ae-4a1eed86b299" />
+
+### Discounting Behaviors
