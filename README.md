@@ -96,3 +96,8 @@ Over 68% of all deals are below the list price or 3,825 deals. Around 30% of all
 
 [Discounting Behaviors] <img width="914" height="664" alt="10_discounting_behaviors" src="https://github.com/user-attachments/assets/ec468a39-5182-4fe1-b800-c5a360fead11" />
 
+### Product Discount 
+The GTX Basic product is sold below listing price most often, with 991 deals. The GTX Basic is also sold above listing price most often, with 436 deals. 
+
+[Product Discount] <img width="921" height="866" alt="11_product_discount" src="https://github.com/user-attachments/assets/b032ecbd-cab7-467a-8a18-5ab669ad5a52" /> <img width="913" height="599" alt="11(1)_product_discount" src="https://github.com/user-attachments/assets/1b01223d-de42-4ef8-b0b0-62b207b6d7fc" />
+
