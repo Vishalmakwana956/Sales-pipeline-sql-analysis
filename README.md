@@ -101,3 +101,5 @@ The GTX Basic product is sold below listing price most often, with 991 deals. Th
 
 [Product Discount] <img width="921" height="866" alt="11_product_discount" src="https://github.com/user-attachments/assets/b032ecbd-cab7-467a-8a18-5ab669ad5a52" /> <img width="913" height="599" alt="11(1)_product_discount" src="https://github.com/user-attachments/assets/1b01223d-de42-4ef8-b0b0-62b207b6d7fc" />
 
+### What This Means
+My recommendation for the sales team would be to evaluate their pricing strategy and make adjustments accordingly. With 68% of deals being closed below list price, I would also recommend reiterating to sales agents that discounts should be used as a last resort, not as a first option and provide more training and support on closing deals by proving value instead of using discounts. 
