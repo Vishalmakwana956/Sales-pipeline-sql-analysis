@@ -92,3 +92,7 @@ There are 3 GTX products (GTX Basic, GTX Plus Basic, and GTX Plus Pro), and 2 MG
 [GTX Series vs. MG Series] <img width="922" height="718" alt="09_gtx_vs_mg" src="https://github.com/user-attachments/assets/8f5917b8-8ae4-41b0-b2ae-4a1eed86b299" />
 
 ### Discounting Behaviors
+Over 68% of all deals are below the list price or 3,825 deals. Around 30% of all deals (1,674) are sold above listing price, and 1% or 65 deals are done at list price.
+
+[Discounting Behaviors] <img width="914" height="664" alt="10_discounting_behaviors" src="https://github.com/user-attachments/assets/ec468a39-5182-4fe1-b800-c5a360fead11" />
+
