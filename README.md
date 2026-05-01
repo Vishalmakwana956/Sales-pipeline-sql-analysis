@@ -113,4 +113,10 @@ There are 12 sectors, the top 3 highest win rate industries are marketing (.5994
 [Win Rate by Industry] <img width="914" height="820" alt="12_win_rate_by_industry" src="https://github.com/user-attachments/assets/d5ed194c-9bef-4048-ae9f-e4b7b3e0cbbc" />
 
 ### Deal Value by Sector
+The top 3 revenue generating sectors are retail (1,867,528), technology (1,515,487), and medical (1,359,595). The 3 lowest revenue generating sectors are telecommunications (653,574), services (533,006), and employment (436,174).
+
+[Deal Value by Sector] <img width="917" height="817" alt="13_deal_value_by_sector" src="https://github.com/user-attachments/assets/a2dde806-89cd-43d3-ac91-ce173aac1223" />
+
+### Company Size vs. Win Rate
+
 
