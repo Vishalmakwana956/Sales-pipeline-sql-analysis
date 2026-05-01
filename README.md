@@ -117,6 +117,9 @@ The top 3 revenue generating sectors are retail (1,867,528), technology (1,515,4
 
 [Deal Value by Sector] <img width="917" height="817" alt="13_deal_value_by_sector" src="https://github.com/user-attachments/assets/a2dde806-89cd-43d3-ac91-ce173aac1223" />
 
-### Company Size vs. Win Rate
+### Win Rate by Office Location
+There are 15 office locations, spanning across countries in North America, South America, Europe, Africa, and Asia. Panama has the highest win rate (.6881), followed by Germany (.6727). Brazil has the second lowest win rate (.5246), and Romania has the lowest win rate (.4423). 
 
+[Win Rate by Office Location] <img width="917" height="873" alt="14_win_rate_by_office_location" src="https://github.com/user-attachments/assets/ccd9ecab-f5c3-4ca1-8975-f928dc279c5f" /> <img width="914" height="512" alt="14(1)_win_rate_by_office_location" src="https://github.com/user-attachments/assets/b9e7139b-308e-47c5-a04f-78ac935e20ff" />
 
+### Top Accounts by Revenue Generated
