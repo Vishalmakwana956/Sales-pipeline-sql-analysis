@@ -267,17 +267,106 @@ ORDER BY p.product, deals DESC;
 
 -- =================================================
 
+-- SECTION 4: ACCOUNT & SECTOR ANALYSIS
+-- Goal: Understand whether industry, company size,
+-- revenue, or geography affects how likely a deal 
+-- is to close.
 
+-- =================================================
 
+-- Question: Which industry closes at the highest rate?
+-- Why it matters: Tells us where the team should be 
+-- focusing prospecting efforts.
 
+-- =================================================
 
+-- Win Rate by Industry Query:
+SELECT 
+    ac.sector AS industry,
+    COUNT(*) AS total_deals,
+    SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    ROUND(
+        1.0 * SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) 
+        / COUNT(*), 
+        4
+    ) AS win_rate
+FROM sales_pipeline sp
+JOIN accounts ac
+ON sp.account = ac.account
+GROUP BY ac.sector
+ORDER BY win_rate DESC;
 
+-- =================================================
 
+-- Question: Which sector generates the most revenue?
+-- Why it matters: Determines which industry closes at 
+-- a higher value, irrespective of win rate.
 
+-- =================================================
 
+-- Deal Value by Sector Query: 
+SELECT 
+    ac.sector AS industry,
+    COUNT(*) AS total_deals,
+    SUM (CASE
+         WHEN sp.deal_stage = 'Won' THEN sp.close_value 
+         ELSE 0
+    END) AS total_revenue
+FROM sales_pipeline sp
+JOIN accounts ac
+ON sp.account = ac.account
+WHERE sp.close_value IS NOT NULL
+GROUP BY ac.sector
+ORDER BY total_revenue DESC;
 
+-- =================================================
 
+-- Question: Do US based accounts close differently
+-- than international accounts? 
+-- Why it matters: Provides insight into how US based
+-- accounts are performing compared to international
+-- based accounts.
 
+-- =================================================
 
+-- Win Rate by Office Location Query:
+SELECT 
+    ac.office_location AS country,
+    COUNT(*) AS total_deals,
+    SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) AS deals_won,
+    ROUND(
+        1.0 * SUM(CASE WHEN sp.deal_stage = 'Won' THEN 1 ELSE 0 END) 
+        / COUNT(*), 
+        4
+    ) AS win_rate
+FROM sales_pipeline sp
+JOIN accounts ac
+ON sp.account = ac.account
+GROUP BY ac.office_location
+ORDER BY win_rate DESC;
 
+-- =================================================
 
+-- Question: Which specific accounts have generated
+-- the most total closed revenue across all their deals?
+-- Why it matters: Shows which accounts are performing
+-- the best in regards to money generated.
+
+-- =================================================
+
+-- Top Accounts by Revenue Generated Query:
+SELECT 
+    ac.account AS account,
+    COUNT(*) AS total_deals,
+    SUM (CASE
+         WHEN sp.deal_stage = 'Won' THEN sp.close_value 
+         ELSE 0
+    END) AS total_revenue
+FROM sales_pipeline sp
+JOIN accounts ac
+ON sp.account = ac.account
+WHERE sp.close_value IS NOT NULL
+GROUP BY ac.account
+ORDER BY total_revenue DESC;
+
+-- =================================================
