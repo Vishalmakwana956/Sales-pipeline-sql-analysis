@@ -108,3 +108,9 @@ My recommendation for the sales team would be to evaluate their pricing strategy
 This section will show win rate by industry sector, deal value by sector, deal value by sector, win rate by office location, and top accounts by revenue generated. This secton will be utilizing the sales_pipeline and accounts spreadsheets. 
 
 ### Win Rate by Industry Sector
+There are 12 sectors, the top 3 highest win rate industries are marketing (.5994), software (.5945), and entertainment (.5765). The 3 industries with the lowest win rates are telecommunications (.5689), medical (.5633), and finance (.5531). 
+
+[Win Rate by Industry] <img width="914" height="820" alt="12_win_rate_by_industry" src="https://github.com/user-attachments/assets/d5ed194c-9bef-4048-ae9f-e4b7b3e0cbbc" />
+
+### Deal Value by Sector
+
