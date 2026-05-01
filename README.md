@@ -128,4 +128,4 @@ The top 3 revenue generating accounts are Kan-code (341,455), Konex (269,245), a
 [Top Accounts by Revenue Generated] (2/7 screenshots, rest are in screenshots folder). <img width="916" height="872" alt="15_top_revenue_by_accounts" src="https://github.com/user-attachments/assets/f87d176e-68f0-4a8f-87ec-59ef08d1bc7c" /> <img width="920" height="492" alt="15(1)_top_revenue_by_accounts" src="https://github.com/user-attachments/assets/f39ecc90-63b3-4a9b-b728-8a36cfb47c5f" />
 
 ### What This Means
-My recommendation based on the account & sector analysis would be to have the sales team prospect more in marketing, software, and entertainment industries and reevaluate the strategy and pursuit of the telecommunications sector, as it is in lowest 3 for win rate by industry and deal value per sector. Additionally, I would recommend  
+My recommendation based on the account & sector analysis would be to have the sales team prospect more in marketing, software, and entertainment industries and reevaluate the strategy and pursuit of the telecommunications sector, as it is in lowest 3 for win rate by industry and deal value per sector.  
