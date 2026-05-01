@@ -133,4 +133,7 @@ My recommendation based on the account & sector analysis would be to have the sa
 ---
 
 ## Key Takeaways
-- 
+- At least double prospecting opportunities (currently 500).
+- Increase training/support for sales agents in the closing stage of sales process.
+- Evaluate pricing strategy and reinforce to sales agents that discounts should be offered as last resort.
+- Increase prospecting in high win rate industries, and reevaluate telecommunication pursuit strategy.
