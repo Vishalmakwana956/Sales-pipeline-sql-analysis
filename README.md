@@ -79,7 +79,7 @@ The overall performance by maanger. Melvin Marxen has 882 deals won and 1,929 de
 My recommendation for this company, based on the Sales Team Analysis would be to increase training/support for reps when closing deals as 21/29 reps have a win rate of below 50%. Another recommendation I would make is along with increasing prospecting as discussed in the funnel analysis, is development and learning across regions and managers, for them to pick up any insights or tips from each other as they are performing well, but there is not a region or manager that is strongly outperforming the others.  
 
 ## Product Analysis
-This section will show win rate by product, compare two product lines, discounting behavior, and deal value by product. This section will be utilizing the sales_pipeline and the products spreadsheets.
+This section will show win rate by product, compare two product lines, discounting behavior, and product discount. This section will be utilizing the sales_pipeline and the products spreadsheets.
 
 ### Win Rate by Product
 There are 6 products, with the GTX Plus Pro having the highest win rate (.4948), the GTK 500 has the lowest win rate (.375). The GTX Basic has the most deals won (915) and the GTK 500 has the lowest deals won (15). 
@@ -103,3 +103,8 @@ The GTX Basic product is sold below listing price most often, with 991 deals. Th
 
 ### What This Means
 My recommendation for the sales team would be to evaluate their pricing strategy and make adjustments accordingly. With 68% of deals being closed below list price, I would also recommend reiterating to sales agents that discounts should be used as a last resort, not as a first option and provide more training and support on closing deals by proving value instead of using discounts. 
+
+## Account & Sector Analysis
+This section will show win rate by industry sector, deal value by sector, deal value by sector, win rate by office location, and top accounts by revenue generated. This secton will be utilizing the sales_pipeline and accounts spreadsheets. 
+
+### Win Rate by Industry Sector
