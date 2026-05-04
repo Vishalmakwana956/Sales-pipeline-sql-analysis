@@ -103,25 +103,25 @@ My recommendation for the sales team would be to evaluate their pricing strategy
 ## Account & Sector Analysis
 This section will show win rate by industry sector, deal value by sector, deal value by sector, win rate by office location, and top accounts by revenue generated. This secton will be utilizing the sales_pipeline and accounts spreadsheets. 
 
-### Win Rate by Industry Sector
+### [Win Rate by Industry Sector](screenshots/12_win_rate_by_industry.png)
 There are 12 sectors, the top 3 highest win rate industries are marketing (.5994), software (.5945), and entertainment (.5765). The 3 industries with the lowest win rates are telecommunications (.5689), medical (.5633), and finance (.5531). 
 
 [Win Rate by Industry] <img width="914" height="820" alt="12_win_rate_by_industry" src="https://github.com/user-attachments/assets/d5ed194c-9bef-4048-ae9f-e4b7b3e0cbbc" />
 
-### Deal Value by Sector
+### [Deal Value by Sector](screenshots/13_deal_value_by_sector.png)
 The top 3 revenue generating sectors are retail (1,867,528), technology (1,515,487), and medical (1,359,595). The 3 lowest revenue generating sectors are telecommunications (653,574), services (533,006), and employment (436,174).
 
 [Deal Value by Sector] <img width="917" height="817" alt="13_deal_value_by_sector" src="https://github.com/user-attachments/assets/a2dde806-89cd-43d3-ac91-ce173aac1223" />
 
-### Win Rate by Office Location
+### [Win Rate by Office Location](screenshots/14_win_rate_by_office_location.png)
 There are 15 office locations, spanning across countries in North America, South America, Europe, Africa, and Asia. Panama has the highest win rate (.6881), followed by Germany (.6727). Brazil has the second lowest win rate (.5246), and Romania has the lowest win rate (.4423). 
 
-[Win Rate by Office Location] <img width="917" height="873" alt="14_win_rate_by_office_location" src="https://github.com/user-attachments/assets/ccd9ecab-f5c3-4ca1-8975-f928dc279c5f" /> <img width="914" height="512" alt="14(1)_win_rate_by_office_location" src="https://github.com/user-attachments/assets/b9e7139b-308e-47c5-a04f-78ac935e20ff" />
+[Win Rate by Office Location](screenshots/14(1)_win_rate_by_office_location.png)
 
-### Top Accounts by Revenue Generated
+### [Top Accounts by Revenue Generated](screenshots/15_top_revenue_by_accounts.png)
 The top 3 revenue generating accounts are Kan-code (341,455), Konex (269,245), and Condax (206,410). The 3 lowest generating accounts are Donware (56,637), Zathunicon (55,616), and Golddex (51,632). 
 
-[Top Accounts by Revenue Generated] (2/7 screenshots, rest are in screenshots folder). <img width="916" height="872" alt="15_top_revenue_by_accounts" src="https://github.com/user-attachments/assets/f87d176e-68f0-4a8f-87ec-59ef08d1bc7c" /> <img width="920" height="492" alt="15(1)_top_revenue_by_accounts" src="https://github.com/user-attachments/assets/f39ecc90-63b3-4a9b-b728-8a36cfb47c5f" />
+[Top Accounts by Revenue Generated Continued](screenshots/) (from 15(1) to 15(6)). <img width="916" height="872" alt="15_top_revenue_by_accounts" src="https://github.com/user-attachments/assets/f87d176e-68f0-4a8f-87ec-59ef08d1bc7c" /> <img width="920" height="492" alt="15(1)_top_revenue_by_accounts" src="https://github.com/user-attachments/assets/f39ecc90-63b3-4a9b-b728-8a36cfb47c5f" />
 
 ### What This Means
 My recommendation based on the account & sector analysis would be to have the sales team prospect more in marketing, software, and entertainment industries and reevaluate the strategy and pursuit of the telecommunications sector, as it is in lowest 3 for win rate by industry and deal value per sector.  
