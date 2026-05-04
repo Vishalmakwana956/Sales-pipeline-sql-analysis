@@ -54,10 +54,11 @@ The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win 
 
 [Top Rep Win Rate Additional View](screenshots/04(1)_top_reps_by_win_rate.png)
 
-### Deal Volume vs. Win Rate per Rep
+### [Deal Volume vs. Win Rate per Rep](screenshots/05_deal_volume_vs_win_rate.png)
 The amount of deals conducted per rep compared to their win rate.
 
-[Deal Volume vs. Win Rate] <img width="923" height="882" alt="05_deal_volume_vs_win_rate" src="https://github.com/user-attachments/assets/1cafef15-a0f0-4f91-8f72-f5a8ec8fec25" /> <img width="922" height="861" alt="05(1)_deal_volume_vs_win_rate" src="https://github.com/user-attachments/assets/9840e1f9-5048-4809-82c1-77122522d348" /> <img width="910" height="550" alt="05(2)_deal_volume_vs_win_rate" src="https://github.com/user-attachments/assets/11bd3636-ede9-4a6f-9e7d-26ac4276f192" /> 
+[Deal Volume vs. Win Rate Continued](screenshots/05(1)_deal_volume_vs_win_rate.png)
+[Deal Volume vs. Win Rate Continued.](screenshots/05(2)_deal_volume_vs_win_rate.png)
 
 ### Performance by Regional Office
 This dataset has 3 Regional offices, West, Central, and East. Central Regional Office performance: 1,629 deals won out of 3,512. West Regional Office performance: 1,438 deals won out of 2,997. East Regional Office performance: 1,171 deals won out of 2,291. 
