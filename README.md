@@ -52,14 +52,14 @@ This section will show the top reps, the win rate vs. deal volume per rep, the p
 ### [Top Reps Win Rate](screenshots/04_top_reps_by_win_rate.png)
 The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win rate. 
 
-[Top Rep Win Rate Additional View](screenshots/04(1)_top_reps_by_win_rate.png)
+[Top Rep Win Rate Additional Screenshot](screenshots/04(1)_top_reps_by_win_rate.png)
 
 ### [Deal Volume vs. Win Rate per Rep](screenshots/05_deal_volume_vs_win_rate.png)
 The amount of deals conducted per rep compared to their win rate.
 
-[Deal Volume vs. Win Rate Continued](screenshots/05(1)_deal_volume_vs_win_rate.png)
+[Deal Volume vs. Win Rate Additional Screenshot 1](screenshots/05(1)_deal_volume_vs_win_rate.png)
 
-[Deal Volume vs. Win Rate Continued.](screenshots/05(2)_deal_volume_vs_win_rate.png)
+[Deal Volume vs. Win Rate Additional Screenshot 2](screenshots/05(2)_deal_volume_vs_win_rate.png)
 
 ### [Performance by Regional Office](screenshots/06_performance_by_regional_office.png)
 This dataset has 3 Regional offices, West, Central, and East. Central Regional Office performance: 1,629 deals won out of 3,512. West Regional Office performance: 1,438 deals won out of 2,997. East Regional Office performance: 1,171 deals won out of 2,291. 
@@ -85,7 +85,7 @@ Over 68% of all deals are below the list price or 3,825 deals. Around 30% of all
 ### [Product Discount](screenshots/11_product_discount.png) 
 The GTX Basic product is sold below listing price most often, with 991 deals. The GTX Basic is also sold above listing price most often, with 436 deals. 
 
-[Product Discount Continued](screenshots/11(1)_product_discount.png)
+[Product Discount Additional Screenshot](screenshots/11(1)_product_discount.png)
 
 ### What This Means
 My recommendation for the sales team would be to evaluate their pricing strategy and make adjustments accordingly. With 68% of deals being closed below list price, I would also recommend reiterating to sales agents that discounts should be used as a last resort, not as a first option and provide more training and support on closing deals by proving value instead of using discounts. 
@@ -102,12 +102,12 @@ The top 3 revenue generating sectors are retail (1,867,528), technology (1,515,4
 ### [Win Rate by Office Location](screenshots/14_win_rate_by_office_location.png)
 There are 15 office locations, spanning across countries in North America, South America, Europe, Africa, and Asia. Panama has the highest win rate (.6881), followed by Germany (.6727). Brazil has the second lowest win rate (.5246), and Romania has the lowest win rate (.4423). 
 
-[Win Rate by Office Location](screenshots/14(1)_win_rate_by_office_location.png)
+[Win Rate by Office Location Additional Screenshot](screenshots/14(1)_win_rate_by_office_location.png)
 
 ### [Top Accounts by Revenue Generated](screenshots/15_top_revenue_by_accounts.png)
 The top 3 revenue generating accounts are Kan-code (341,455), Konex (269,245), and Condax (206,410). The 3 lowest generating accounts are Donware (56,637), Zathunicon (55,616), and Golddex (51,632). 
 
-[Top Accounts by Revenue Generated Continued](screenshots/) (from 15(1) to 15(6)).
+[Top Accounts by Revenue Generated Additional Screenshots](screenshots/) (from 15(1) to 15(6)).
 
 ### What This Means
 My recommendation based on the account & sector analysis would be to have the sales team prospect more in marketing, software, and entertainment industries and reevaluate the strategy and pursuit of the telecommunications sector, as it is in lowest 3 for win rate by industry and deal value per sector.  
