@@ -58,6 +58,7 @@ The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win 
 The amount of deals conducted per rep compared to their win rate.
 
 [Deal Volume vs. Win Rate Continued](screenshots/05(1)_deal_volume_vs_win_rate.png)
+
 [Deal Volume vs. Win Rate Continued.](screenshots/05(2)_deal_volume_vs_win_rate.png)
 
 ### Performance by Regional Office
