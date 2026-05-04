@@ -38,7 +38,7 @@ The overall win rate was just under 50%, specifically 4238/8800.
 ### [Deal Volume by Stage](screenshots/02_deals_by_stage.png)
 The amount of deals in each stage of the sales process. There is 1,589 deals in the 'Engaging' stage, 2,473 deals in the 'Lost' stage, 500 in the 'Prospecting' stage, and 4,238 in the 'Won' stage.
 
-### [Average Time to Close](03_avg_deal_close.png)
+### [Average Time to Close](screenshots/03_avg_deal_close.png)
 The average amount of time it took to close both won and lost deals, excluding NULL values. The average amount of days to close a 'Lost' deal was 41.48 days. The average amount of days to close a 'Won' deal was 51.78 days.
 
 ### What This Means
@@ -49,10 +49,10 @@ My recommendation for this company's sales manager based on the Funnel Analysis 
 ## Sales Team Analysis
 This section will show the top reps, the win rate vs. deal volume per rep, the performance by regional office, and the performance by manager. This section will be utilizing the sales_pipeline and sales_teams spreadsheets. 
 
-### [Top Reps Win Rate](04_top_reps_by_win_rate.png)
+### [Top Reps Win Rate](screenshots/04_top_reps_by_win_rate.png)
 The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win rate. 
 
-[Top Rep Win Rate Additional View](04(1)_top_reps_by_win_rate.png)
+[Top Rep Win Rate Additional View](screenshots/04(1)_top_reps_by_win_rate.png)
 
 ### Deal Volume vs. Win Rate per Rep
 The amount of deals conducted per rep compared to their win rate.
