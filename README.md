@@ -38,12 +38,8 @@ The overall win rate was just under 50%, specifically 4238/8800.
 ### [Deal Volume by Stage](screenshots/02_deals_by_stage.png)
 The amount of deals in each stage of the sales process. There is 1,589 deals in the 'Engaging' stage, 2,473 deals in the 'Lost' stage, 500 in the 'Prospecting' stage, and 4,238 in the 'Won' stage.
 
-[Deal Volume by Stage] <img width="920" height="616" alt="02_deals_by_stage" src="https://github.com/user-attachments/assets/9cb4d266-e092-4ef8-8c94-12d966fc5600" />
-
 ### [Average Time to Close](03_avg_deal_close.png)
 The average amount of time it took to close both won and lost deals, excluding NULL values. The average amount of days to close a 'Lost' deal was 41.48 days. The average amount of days to close a 'Won' deal was 51.78 days.
-
-[Average Time to Close] <img width="905" height="521" alt="03_avg_deal_close" src="https://github.com/user-attachments/assets/db81aa86-b948-4a06-971f-ba873bad025e" />
 
 ### What This Means
 My recommendation for this company's sales manager based on the Funnel Analysis would be to at least double the amount of opportunities in the 'Prospecting' stage, as 500 is low compared to the amount of opportunities (8,800). I would also recommend to speed up the sales process for opportunities that are unlikely to convert to 'Lost' opportuntities to 30 days, as spending 41.5 days for an opportunity that ultimately did not generate revenue for the company is too long to be in an agent's pipeline.
