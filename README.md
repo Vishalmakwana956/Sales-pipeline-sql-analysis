@@ -8,10 +8,24 @@ SQL Analysis of a B2B CRM dataset exploring win rates, deal-drop-off, and sales 
 - Gap in Prospecting: Only 500 deals in prospecting stage (5.7% of pipeline)
 - Deal won take 10 days longer to close than lost deals on average (51.8 days vs 41.5 days)
 
-## Tools
-Kaggle- kaggle.com
+### Revenue Leakage
+- 68% of deals close below product list price
+- Estimated $(X) left on table due to discounting
 
-SQLite - SQLiteOnline.com
+### Performance Variance
+- Top sales agent: 65.4% win rate | Bottom rep: 40.8% win rate
+- 21 of 29 agents below 50% win rate (training opportunity)
+
+### Recommended Actions
+- Double prospecting pipeline immediately
+- Implement discount approval process >15%
+- Share best practices from top agents quarterly
+
+## Tools
+- Database: SQLite
+- Platform: SQLite - SQLiteOnline.com
+- Visualization: Tableau Public
+- Data Source: Kaggle B2B Sales Pipeline (https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities)
 
 ## Dataset Overview
 Accounts- Overview of the different accounts. Rows include: Account, Sector, Year Established, Revenue, Employees, Office Location, and Subsidary.
@@ -29,6 +43,8 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 
 ## Project Structure
 'analysis.sql' - all queries with comments
+
+'datafiles/' - data tables from Kaggle
 
 'screenshots/' - result tables for each query
 
@@ -120,9 +136,3 @@ The top 3 revenue generating accounts are Kan-code (341,455), Konex (269,245), a
 My recommendation based on the account & sector analysis would be to have the sales team prospect more in marketing, software, and entertainment industries and reevaluate the strategy and pursuit of the telecommunications sector, as it is in lowest 3 for win rate by industry and deal value per sector.  
 
 ---
-
-## Key Takeaways
-- At least double prospecting opportunities (currently 500).
-- Increase training/support for sales agents in the closing stage of sales process.
-- Evaluate pricing strategy and reinforce to sales agents that discounts should be offered as last resort.
-- Increase prospecting in high win rate industries, and reevaluate telecommunication pursuit strategy.
