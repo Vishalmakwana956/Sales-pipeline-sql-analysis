@@ -1,6 +1,13 @@
 # Sales-pipeline-sql-analysis
 SQL Analysis of a B2B CRM dataset exploring win rates, deal-drop-off, and sales team performance across 8,800 opportunities.
 
+## Key Findings
+
+### Pipeline Health
+- 48.2% overall win rate (4,238/8,800 deals)
+- Gap in Prospecting: Only 500 deals in prospecting stage (5.7% of pipeline)
+- Deal won take 10 days longer to close than lost deals on average (51.8 days vs 41.5 days)
+
 ## Tools
 Kaggle- kaggle.com
 
@@ -65,7 +72,7 @@ The amount of deals conducted per rep compared to their win rate.
 This dataset has 3 Regional offices, West, Central, and East. Central Regional Office performance: 1,629 deals won out of 3,512. West Regional Office performance: 1,438 deals won out of 2,997. East Regional Office performance: 1,171 deals won out of 2,291. 
 
 ### [Performance by Manager](screenshots/07_performance_by_manager.png)
-The overall performance by maanger. Melvin Marxen has 882 deals won and 1,929 deal volume. Summer Sewald has 828 deals won and 1,701 deal volume. Dustin Brinkmann has 747 deals won and 1,583 deal volume. Rocco Neubert has 691 deals won and 1,327 deal volume. Celia Rouche 610 deals won and 1,296 deal volume. Cara Losch has 480 deals won and 964 deal volume.
+The overall performance by manger. Melvin Marxen has 882 deals won and 1,929 deal volume. Summer Sewald has 828 deals won and 1,701 deal volume. Dustin Brinkmann has 747 deals won and 1,583 deal volume. Rocco Neubert has 691 deals won and 1,327 deal volume. Celia Rouche 610 deals won and 1,296 deal volume. Cara Losch has 480 deals won and 964 deal volume.
 
 ### What This Means
 My recommendation for this company, based on the Sales Team Analysis would be to increase training/support for reps when closing deals as 21/29 reps have a win rate of below 50%. Another recommendation I would make is along with increasing prospecting as discussed in the funnel analysis, is development and learning across regions and managers, for them to pick up any insights or tips from each other as they are performing well, but there is not a region or manager that is strongly outperforming the others.  
