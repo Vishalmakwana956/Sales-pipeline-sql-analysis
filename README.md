@@ -8,6 +8,9 @@ SQL Analysis of a B2B CRM dataset exploring win rates, deal-drop-off, and sales 
 - Gap in Prospecting: Only 500 deals in prospecting stage (5.7% of pipeline)
 - Deal won take 10 days longer to close than lost deals on average (51.8 days vs 41.5 days)
 
+<img width="1087" height="214" alt="Screenshot 2026-05-06 113920" src="https://github.com/user-attachments/assets/4caec427-af7b-4147-b11a-41180f8a9977" />
+
+
 ### Revenue Leakage
 - 68% of deals close below product list price
 - Estimated $(X) left on table due to discounting
