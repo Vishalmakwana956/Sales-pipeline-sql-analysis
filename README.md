@@ -61,6 +61,9 @@ This section will show the overall win rate, the deal volume by stage, and the t
 ### [Overall Win Rate](screenshots/01_overall_win_rate.png)
 The overall win rate was just under 50%, specifically 4238/8800.
 
+<img width="1530" height="896" alt="Screenshot 2026-05-07 114846" src="https://github.com/user-attachments/assets/ab4105ab-4f53-4438-a522-d08c517092cc" />
+
+
 ### [Deal Volume by Stage](screenshots/02_deals_by_stage.png)
 The amount of deals in each stage of the sales process. There is 1,589 deals in the 'Engaging' stage, 2,473 deals in the 'Lost' stage, 500 in the 'Prospecting' stage, and 4,238 in the 'Won' stage.
 
