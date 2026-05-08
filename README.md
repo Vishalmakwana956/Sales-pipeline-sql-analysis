@@ -77,6 +77,9 @@ My recommendation for this company's sales manager based on the Funnel Analysis 
 ## Sales Team Analysis
 This section will show the top reps, the win rate vs. deal volume per rep, the performance by regional office, and the performance by manager. This section will be utilizing the sales_pipeline and sales_teams spreadsheets. 
 
+<img width="1530" height="994" alt="Screenshot 2026-05-08 123539" src="https://github.com/user-attachments/assets/68cf67df-fd80-4d35-8fa0-c8f9bb9a8cc9" />
+
+
 ### [Top Reps Win Rate](screenshots/04_top_reps_by_win_rate.png)
 The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win rate. 
 
