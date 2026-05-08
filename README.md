@@ -13,7 +13,6 @@ SQL Analysis of a B2B CRM dataset exploring win rates, deal-drop-off, and sales 
 
 ### Revenue Leakage
 - 68% of deals close below product list price
-- Estimated $(X) left on table due to discounting
 
 ### Performance Variance
 - Top sales agent: 65.4% win rate | Bottom rep: 40.8% win rate
