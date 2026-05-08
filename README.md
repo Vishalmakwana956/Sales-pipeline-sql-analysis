@@ -50,6 +50,8 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 
 'screenshots/' - result tables for each query
 
+'tableau/' - Tableau visualizations 
+
 'README.md' - findings and summary
 
 ---
