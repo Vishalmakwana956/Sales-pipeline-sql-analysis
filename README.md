@@ -95,6 +95,8 @@ The amount of deals conducted per rep compared to their win rate.
 ### [Performance by Regional Office](screenshots/06_performance_by_regional_office.png)
 This dataset has 3 Regional offices, West, Central, and East. Central Regional Office performance: 1,629 deals won out of 3,512. West Regional Office performance: 1,438 deals won out of 2,997. East Regional Office performance: 1,171 deals won out of 2,291. 
 
+<img width="1535" height="985" alt="Screenshot 2026-05-08 152819" src="https://github.com/user-attachments/assets/7d767872-7e05-4e23-b408-e70c358e26ae" />
+
 ### [Performance by Manager](screenshots/07_performance_by_manager.png)
 The overall performance by manger. Melvin Marxen has 882 deals won and 1,929 deal volume. Summer Sewald has 828 deals won and 1,701 deal volume. Dustin Brinkmann has 747 deals won and 1,583 deal volume. Rocco Neubert has 691 deals won and 1,327 deal volume. Celia Rouche 610 deals won and 1,296 deal volume. Cara Losch has 480 deals won and 964 deal volume.
 
