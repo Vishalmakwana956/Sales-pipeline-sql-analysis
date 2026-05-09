@@ -101,6 +101,8 @@ This dataset has 3 Regional offices, West, Central, and East. Central Regional O
 ### [Performance by Manager](screenshots/07_performance_by_manager.png)
 The overall performance by manger. Melvin Marxen has 882 deals won and 1,929 deal volume. Summer Sewald has 828 deals won and 1,701 deal volume. Dustin Brinkmann has 747 deals won and 1,583 deal volume. Rocco Neubert has 691 deals won and 1,327 deal volume. Celia Rouche 610 deals won and 1,296 deal volume. Cara Losch has 480 deals won and 964 deal volume.
 
+<img width="1528" height="978" alt="Screenshot 2026-05-09 150843" src="https://github.com/user-attachments/assets/0ddb5881-69ee-43d3-9378-15f77fec3fa8" />
+
 ### What This Means
 My recommendation for this company, based on the Sales Team Analysis would be to increase training/support for reps when closing deals as 21/29 reps have a win rate of below 50%. Another recommendation I would make is along with increasing prospecting as discussed in the funnel analysis, is development and learning across regions and managers, for them to pick up any insights or tips from each other as they are performing well, but there is not a region or manager that is strongly outperforming the others.  
 
