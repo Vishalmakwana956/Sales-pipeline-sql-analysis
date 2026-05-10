@@ -109,6 +109,8 @@ My recommendation for this company, based on the Sales Team Analysis would be to
 ## Product Analysis
 This section will show win rate by product, compare two product lines, discounting behavior, and product discount. This section will be utilizing the sales_pipeline and the products spreadsheets.
 
+<img width="1534" height="991" alt="Screenshot 2026-05-09 212600" src="https://github.com/user-attachments/assets/9fc05668-8747-4ea8-8ad5-62cd19392c15" />
+
 ### [Win Rate by Product](screenshots/08_win_rate_by_product.png)
 There are 6 products, with the GTX Plus Pro having the highest win rate (.4948), the GTK 500 has the lowest win rate (.375). The GTX Basic has the most deals won (915) and the GTK 500 has the lowest deals won (15). 
 
