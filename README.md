@@ -120,6 +120,8 @@ There are 3 GTX products (GTX Basic, GTX Plus Basic, and GTX Plus Pro), and 2 MG
 ### [Discounting Behaviors](screenshots/10_discounting_behaviors.png)
 Over 68% of all deals are below the list price or 3,825 deals. Around 30% of all deals (1,674) are sold above listing price, and 1% or 65 deals are done at list price.
 
+<img width="1531" height="995" alt="Screenshot 2026-05-11 105256" src="https://github.com/user-attachments/assets/804caf48-96ae-4fc4-bd6a-ada27f0abee3" />
+
 ### [Product Discount](screenshots/11_product_discount.png) 
 The GTX Basic product is sold below listing price most often, with 991 deals. The GTX Basic is also sold above listing price most often, with 436 deals. 
 
