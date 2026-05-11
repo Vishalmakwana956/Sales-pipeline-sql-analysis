@@ -143,6 +143,8 @@ There are 12 sectors, the top 3 highest win rate industries are marketing (.5994
 ### [Deal Value by Sector](screenshots/13_deal_value_by_sector.png)
 The top 3 revenue generating sectors are retail (1,867,528), technology (1,515,487), and medical (1,359,595). The 3 lowest revenue generating sectors are telecommunications (653,574), services (533,006), and employment (436,174).
 
+<img width="1535" height="993" alt="Screenshot 2026-05-11 185955" src="https://github.com/user-attachments/assets/7e863867-8fa7-4d3e-9898-9aa7ed7d9d41" />
+
 ### [Win Rate by Office Location](screenshots/14_win_rate_by_office_location.png)
 There are 15 office locations, spanning across countries in North America, South America, Europe, Africa, and Asia. Panama has the highest win rate (.6881), followed by Germany (.6727). Brazil has the second lowest win rate (.5246), and Romania has the lowest win rate (.4423). 
 
