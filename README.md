@@ -150,6 +150,8 @@ There are 15 office locations, spanning across countries in North America, South
 
 [Win Rate by Office Location Additional Screenshot](screenshots/14(1)_win_rate_by_office_location.png)
 
+<img width="1528" height="951" alt="Screenshot 2026-05-11 210613" src="https://github.com/user-attachments/assets/0809d9eb-c34a-485b-805d-98b255318960" />
+
 ### [Top Accounts by Revenue Generated](screenshots/15_top_revenue_by_accounts.png)
 The top 3 revenue generating accounts are Kan-code (341,455), Konex (269,245), and Condax (206,410). The 3 lowest generating accounts are Donware (56,637), Zathunicon (55,616), and Golddex (51,632). 
 
