@@ -1,27 +1,16 @@
 # Sales-pipeline-sql-analysis
 SQL Analysis of a B2B CRM dataset exploring win rates, deal-drop-off, and sales team performance across 8,800 opportunities.
 
-## Key Findings
+## Executive Summary
+**Business Problem:** Sales team closing 48% of deals with high discount rates (68% below list price) and only 5.7% of total opportunities in prospecting stage.
 
-### Pipeline Health
+### Key Findings:
 - 48.2% overall win rate (4,238/8,800 deals)
 - Gap in Prospecting: Only 500 deals in prospecting stage (5.7% of pipeline)
 - Deal won take 10 days longer to close than lost deals on average (51.8 days vs 41.5 days)
+- GTX Basic generates highest revenue despite 68% discount rate
 
 <img width="1087" height="214" alt="Screenshot 2026-05-06 113920" src="https://github.com/user-attachments/assets/4caec427-af7b-4147-b11a-41180f8a9977" />
-
-
-### Revenue Leakage
-- 68% of deals close below product list price
-
-### Performance Variance
-- Top sales agent: 65.4% win rate | Bottom rep: 40.8% win rate
-- 21 of 29 agents below 50% win rate (training opportunity)
-
-### Recommended Actions
-- Double prospecting pipeline immediately
-- Implement discount approval process >15%
-- Share best practices from top agents quarterly
 
 ## Tools
 - Database: SQLite
