@@ -146,31 +146,39 @@ The GTX Basic product is sold below listing price most often, with 991 deals, wh
 ---
 
 ## Account & Sector Analysis
-This section will show win rate by industry sector, deal value by sector, deal value by sector, win rate by office location, and top accounts by revenue generated. This secton will be utilizing the sales_pipeline and accounts spreadsheets. 
+**Questions Answered:** 
+- Which industry sectors have the highest win rates and generated the most revenue?
+- Where should the focus be for prospecting efforts?
+- Are there geographic patterns in client success that can be leveraged?
+- Which accounts drive the most revenue?
+
+**Insights:**
+- Reail, Technology, and Medical are high-value sectors
+- Panama and Germany are "Geographic Winners"
+- Marketing & Software sectors show 59%+ win rates but lower deal volumes
+
+**Recommendation:** Expand prospecting in high win rate verticals and study Panama & Germany processes. 
 
 ### [Win Rate by Industry Sector](screenshots/12_win_rate_by_industry.png)
-There are 12 sectors, the top 3 highest win rate industries are marketing (.5994), software (.5945), and entertainment (.5765). The 3 industries with the lowest win rates are telecommunications (.5689), medical (.5633), and finance (.5531). 
+Marketing (59.9%), Software (59.4%), and Entertainment (57.6%) demonstrate the strongest product-market fit while Telecommunications (56.8%), Medical (56.3%), and Finance (55.3%) have the lowest win rate despite having over a 50% win rate. Given all sectors exceed 55%, the opportunity lies in volume expansion within high win rate sectors. 
 
 <img width="1535" height="990" alt="Screenshot 2026-05-11 121404" src="https://github.com/user-attachments/assets/123c2c41-17c4-4183-b3fb-27af13e2b526" />
 
 ### [Deal Value by Sector](screenshots/13_deal_value_by_sector.png)
-The top 3 revenue generating sectors are retail (1,867,528), technology (1,515,487), and medical (1,359,595). The 3 lowest revenue generating sectors are telecommunications (653,574), services (533,006), and employment (436,174).
+Retail ($1,867,528), Technology ($1,515,487), and Medical ($1,359,595) drive the highest revenue, indicating these are larger deal sizes that justify the lower conversion. Telecommunications ($653,574), Services ($533,006), and Employment ($436,174) generate minimal revenue in comparison and warrant less priority in regards to prospecting.
 
 <img width="1535" height="993" alt="Screenshot 2026-05-11 185955" src="https://github.com/user-attachments/assets/7e863867-8fa7-4d3e-9898-9aa7ed7d9d41" />
 
 ### [Win Rate by Office Location](screenshots/14_win_rate_by_office_location.png)
-There are 15 office locations, spanning across countries in North America, South America, Europe, Africa, and Asia. Panama has the highest win rate (.6881), followed by Germany (.6727). Brazil has the second lowest win rate (.5246), and Romania has the lowest win rate (.4423). 
+Panama has the highest win rate (68.8%), followed by Germany (67.2%). This suggests either great market fit, less competition, or superior sales execution. Brazil has the second lowest win rate (52.4%), and Romania has the lowest win rate (44.2%) indicate challenging markets that may require assistance or candidates for a strategic exit. The vast difference in win rate (nearly 25%) presents a major opportunity to replicate Panama/Germany processes in underperforming regions for substantial gains without additional investments. 
 
 [Win Rate by Office Location Additional Screenshot](screenshots/14(1)_win_rate_by_office_location.png)
 
 <img width="1528" height="951" alt="Screenshot 2026-05-11 210613" src="https://github.com/user-attachments/assets/0809d9eb-c34a-485b-805d-98b255318960" />
 
 ### [Top Accounts by Revenue Generated](screenshots/15_top_revenue_by_accounts.png)
-The top 3 revenue generating accounts are Kan-code (341,455), Konex (269,245), and Condax (206,410). The 3 lowest generating accounts are Donware (56,637), Zathunicon (55,616), and Golddex (51,632). 
+The top 3 revenue generating accounts are Kan-code ($341,455), Konex ($269,245), and Condax ($206,410). The 3 lowest generating accounts are Donware ($56,637), Zathunicon ($55,616), and Golddex ($51,632). 
 
 [Top Accounts by Revenue Generated Additional Screenshots](screenshots/) (from 15(1) to 15(6)).
-
-### What This Means
-My recommendation based on the account & sector analysis would be to have the sales team prospect more in marketing, software, and entertainment industries and reevaluate the strategy and pursuit of the telecommunications sector, as it is in lowest 3 for win rate by industry and deal value per sector.  
 
 ---
