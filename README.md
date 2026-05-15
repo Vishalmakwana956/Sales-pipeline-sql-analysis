@@ -46,7 +46,15 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 ---
 
 ## Funnel Analysis
-This section will show the overall win rate, the deal volume by stage, and the time to close a deal that is won vs lost. This information helps us understand how successful the team has been, how deals are progressing, and the amount of time it takes for an agent to close a successful or unsuccessful deal. This section will be utilizing the sales_pipeline spreadsheet.
+**Questions Answered:**
+- Where are deals dropping off in the pipeline?
+- How long does it take to close won vs. lost deals?
+
+**Insights:**
+- Only 500 deals in "Prospecting" stage suggests insufficient activity at top of sales funnel.
+- Won deals average 52 days vs 41 for lost deals (24% longer)
+
+**Recommendation:** Double prospecting activity, implement 30 day criteria for deals likely to be lost.
 
 ### [Overall Win Rate](screenshots/01_overall_win_rate.png)
 The overall win rate was just under 50%, specifically 4238/8800.
