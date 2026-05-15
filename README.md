@@ -70,36 +70,46 @@ Won deals take an average of 51.78 days to close compared to 41.48 days for lost
 ---
 
 ## Sales Team Analysis
-This section will show the top reps, the win rate vs. deal volume per rep, the performance by regional office, and the performance by manager. This section will be utilizing the sales_pipeline and sales_teams spreadsheets. 
+**Questions Answered:** 
+- Who are the top performing sales reps and is there a relationship between deal volume and win rate among reps?
+- Which regional offices are outperforming, and which need support?
+- How do different managers' teams compare in performance and efficiency?
+
+**Insights**
+- Top performer is Darcel Schlecht (65.4% win rate)
+- 21/29 reps are below 50% win rate
+- Performance gap of 24.6 between top and bottom rep
+- No strong correlation between deal volume and win rate
+
+**Recommendation:** Implement peer shadowing program, and and standardize best practices from top performers.
 
 <img width="1530" height="994" alt="Screenshot 2026-05-08 123539" src="https://github.com/user-attachments/assets/68cf67df-fd80-4d35-8fa0-c8f9bb9a8cc9" />
 
 
 ### [Top Reps Win Rate](screenshots/04_top_reps_by_win_rate.png)
-The top rep has a 65.4% win rate, and the lowest performing rep has a 40.8% win rate. 
+The performance of sales reps spans a 24.6 percentage gap between the top performer at 65.4% win rate to the lowest performer at 40.8%, indicating inconsistent methodologies across the sales team. With 21 out of 29 reps falling below a 50% win rate, this represents an opportunity for improvement through training and reinforcing the sales process. The top performers demonstrate that achieving 50-60% win rates are a realistic goal.  
 
 [Top Rep Win Rate Additional Screenshot](screenshots/04(1)_top_reps_by_win_rate.png)
 
 ### [Deal Volume vs. Win Rate per Rep](screenshots/05_deal_volume_vs_win_rate.png)
-The amount of deals conducted per rep compared to their win rate.
+Analysis reveals no strong correlation between deal volume and win rate, suggesting that activity metrics alone do not guarantee success. Some high-volume reps have lower win rates, while others with moderate volume achieve strong conversion. This analysis supports implementing win rate as the primary performance metric rather than deal volume, with coaching focused on prospect quality.
 
 [Deal Volume vs. Win Rate Additional Screenshot 1](screenshots/05(1)_deal_volume_vs_win_rate.png)
 
 [Deal Volume vs. Win Rate Additional Screenshot 2](screenshots/05(2)_deal_volume_vs_win_rate.png)
 
 ### [Performance by Regional Office](screenshots/06_performance_by_regional_office.png)
-This dataset has 3 Regional offices, West, Central, and East. Central Regional Office performance: 1,629 deals won out of 3,512. West Regional Office performance: 1,438 deals won out of 2,997. East Regional Office performance: 1,171 deals won out of 2,291. 
+The Central regional office leads performance with 1,629 deals won out of 3,512. Next is West regional office performance with 1,438 deals won out of 2,997. Finally, the East regional office performance with 1,171 deals won out of 2,291. However the East office has the highest win rate despite lower volume, which can be contributed to multiple factors: better territory fit or superior execution. 
 
 <img width="1535" height="985" alt="Screenshot 2026-05-08 152819" src="https://github.com/user-attachments/assets/7d767872-7e05-4e23-b408-e70c358e26ae" />
 
 ### [Performance by Manager](screenshots/07_performance_by_manager.png)
-The overall performance by manger. Melvin Marxen has 882 deals won and 1,929 deal volume. Summer Sewald has 828 deals won and 1,701 deal volume. Dustin Brinkmann has 747 deals won and 1,583 deal volume. Rocco Neubert has 691 deals won and 1,327 deal volume. Celia Rouche 610 deals won and 1,296 deal volume. Cara Losch has 480 deals won and 964 deal volume.
+Manager performance shows Melvin Marxen is leading in deals won with 882 deals won and in volume with 1,929 opportunities. Cara Losch's team has the smallest pipeline with 480 deals won and 964 opportunities. All managers are relatively consistent with win rates in the 45-50% range. This analysis suggests resource balancing: adding members to manager Cara Losch's team to capitalize on their strong execution.
 
 <img width="1528" height="978" alt="Screenshot 2026-05-09 150843" src="https://github.com/user-attachments/assets/0ddb5881-69ee-43d3-9378-15f77fec3fa8" />
 
-### What This Means
-My recommendation for this company, based on the Sales Team Analysis would be to increase training/support for reps when closing deals as 21/29 reps have a win rate of below 50%. Another recommendation I would make is along with increasing prospecting as discussed in the funnel analysis, is development and learning across regions and managers, for them to pick up any insights or tips from each other as they are performing well, but there is not a region or manager that is strongly outperforming the others.  
-
+---
+ 
 ## Product Analysis
 This section will show win rate by product, compare two product lines, discounting behavior, and product discount. This section will be utilizing the sales_pipeline and the products spreadsheets.
 
