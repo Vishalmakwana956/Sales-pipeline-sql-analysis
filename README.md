@@ -57,18 +57,15 @@ NULL Values- To maintain data quality, NULL values were removed from calculation
 **Recommendation:** Double prospecting activity, implement 30 day criteria for deals likely to be lost.
 
 ### [Overall Win Rate](screenshots/01_overall_win_rate.png)
-The overall win rate was just under 50%, specifically 4238/8800.
+The overall win rate is 48.2%, (4,238 deals won out of 8,800) which is just below industry standards for B2B SaaS sales (50-55%). This indicates opportunity for improvement through better opportunity qualification and sales process optimization. Near 50% win rate suggests the team has been pursuing the right accounts but may need to refine value proposition. 
 
 ### [Deal Volume by Stage](screenshots/02_deals_by_stage.png)
-The amount of deals in each stage of the sales process. There is 1,589 deals in the 'Engaging' stage, 2,473 deals in the 'Lost' stage, 500 in the 'Prospecting' stage, and 4,238 in the 'Won' stage.
+ There is 1,589 deals in the 'Engaging' stage, 2,473 deals in the 'Lost' stage, 500 in the 'Prospecting' stage, and 4,238 in the 'Won' stage. This shows an obvious lack of opportunities in the 'Prospecting' stage with roughly 6% of the total volume. This suggests insufficient lead generation which can affect short and long-term revenue growth.  
 
 <img width="1530" height="896" alt="Screenshot 2026-05-07 114846" src="https://github.com/user-attachments/assets/ab4105ab-4f53-4438-a522-d08c517092cc" />
 
 ### [Average Time to Close](screenshots/03_avg_deal_close.png)
-The average amount of time it took to close both won and lost deals, excluding NULL values. The average amount of days to close a 'Lost' deal was 41.48 days. The average amount of days to close a 'Won' deal was 51.78 days.
-
-### What This Means
-My recommendation for this company's sales manager based on the Funnel Analysis would be to at least double the amount of opportunities in the 'Prospecting' stage, as 500 is low compared to the amount of opportunities (8,800). I would also recommend to speed up the sales process for opportunities that are unlikely to convert to 'Lost' opportuntities to 30 days, as spending 41.5 days for an opportunity that ultimately did not generate revenue for the company is too long to be in an agent's pipeline.
+Won deals take an average of 51.78 days to close compared to 41.48 days for lost deals, a 25% longer sales cycle for successful conversions. This suggests that high-value deals require more time, while losses indicate early disqualification. Implementing a 30-day checkpoint for stalled deals and opportunities not progressing after 1 month may be better to close as 'Lost' to free up space for more promising prospects. 
 
 ---
 
