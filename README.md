@@ -111,30 +111,39 @@ Manager performance shows Melvin Marxen is leading in deals won with 882 deals w
 ---
  
 ## Product Analysis
-This section will show win rate by product, compare two product lines, discounting behavior, and product discount. This section will be utilizing the sales_pipeline and the products spreadsheets.
+**Questions Answered:**
+- Which products have the highest win rates and generate the most revenue?
+- How do the 2 major product lines (GTX & MG) compare in market performance?
+- Are products being over-discounted, which products are most frequently discounted, and does discounting drive wins?
+
+**Insights:**
+- 68% of deals closed below list price
+- Discounting is default behavior, not a last resort
+- MG Special has a 64.8% win rate but lower volume
+
+**Recommendation:** Implement approval thresholds for discounts greater than 15%, and train reps on value-based selling. 
 
 <img width="1534" height="991" alt="Screenshot 2026-05-09 212600" src="https://github.com/user-attachments/assets/9fc05668-8747-4ea8-8ad5-62cd19392c15" />
 
 ### [Win Rate by Product](screenshots/08_win_rate_by_product.png)
-There are 6 products, with the GTX Plus Pro having the highest win rate (.4948), the GTK 500 has the lowest win rate (.375). The GTX Basic has the most deals won (915) and the GTK 500 has the lowest deals won (15). 
+The GTX Plus Pro having the highest win rate at 49.5%, while the GTK 500 has the lowest win rate at 37.5%. The GTX Basic has the most deals won with 915 and the GTK 500 has the lowest deals won 15. The GTK 500's low performance may warrant reevaluation, is it a pricing issue, features issue, and should resources be allocated to higher performing products? 
 
 ### [GTX Series vs. MG Series](screenshots/09_gtx_vs_mg.png)
-There are 3 GTX products (GTX Basic, GTX Plus Basic, and GTX Plus Pro), and 2 MG Series products (MG Advanced and MG Special). The MG Special has the highest win rate (.6484) and the GTX Plus Pro has generated the most total revenue (2629651). 
+The MG Special has the highest win rate 64.8%, while the GTX Plus Pro has generated the most total revenue $2,629,651. The GTX series appears to be the volume product with broader market appeal, while MG products have a narrower market but convert at a higher rate.   
 
 ### [Discounting Behaviors](screenshots/10_discounting_behaviors.png)
-Over 68% of all deals are below the list price or 3,825 deals. Around 30% of all deals (1,674) are sold above listing price, and 1% or 65 deals are done at list price.
+The analysis reveals over 68% of all deals are below the list price or 3,825 deals. Around 30% of all deals or 1,674 deals are sold above listing price, and 1% or 65 deals are done at list price. This pattern suggests that discounting has become the default negotiation tool rather than a strategic lever, potentially enabling customers to expect price reductions and diminishing margins. The fact that deals close above list price (1,674 deals), proves that customers will pay full value, indicating an opportunity for sales reps rather than a market pricing issue. 
 
 <img width="1531" height="995" alt="Screenshot 2026-05-11 105256" src="https://github.com/user-attachments/assets/804caf48-96ae-4fc4-bd6a-ada27f0abee3" />
 
 ### [Product Discount](screenshots/11_product_discount.png) 
-The GTX Basic product is sold below listing price most often, with 991 deals. The GTX Basic is also sold above listing price most often, with 436 deals. 
+The GTX Basic product is sold below listing price most often, with 991 deals, which aligns with its placement as the highest volume product. The GTX Basic is also sold above listing price most often, with 436 deals. This suggests either discounts were used to win competitive deals or premium prices were given for large orders. This analysis reinforces that discounting discipline varies by rep rather than being product driven; reinforcing disocunt approvals and transitioning to value-selling trainings.
 
 [Product Discount Additional Screenshot](screenshots/11(1)_product_discount.png)
 
 <img width="1535" height="996" alt="Screenshot 2026-05-11 114220" src="https://github.com/user-attachments/assets/16927820-1b49-4cff-bf5b-16c4a66c7a9d" />
 
-### What This Means
-My recommendation for the sales team would be to evaluate their pricing strategy and make adjustments accordingly. With 68% of deals being closed below list price, I would also recommend reiterating to sales agents that discounts should be used as a last resort, not as a first option and provide more training and support on closing deals by proving value instead of using discounts. 
+---
 
 ## Account & Sector Analysis
 This section will show win rate by industry sector, deal value by sector, deal value by sector, win rate by office location, and top accounts by revenue generated. This secton will be utilizing the sales_pipeline and accounts spreadsheets. 
