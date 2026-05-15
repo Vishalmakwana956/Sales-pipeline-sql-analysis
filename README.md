@@ -185,6 +185,7 @@ The top 3 revenue generating accounts are Kan-code ($341,455), Konex ($269,245),
 
 ## Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/vishal-makwana-7b1804196/
+
 **Email:** Vishalmakwana956@gmail.com
 
 ---
